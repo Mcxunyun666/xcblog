@@ -2,9 +2,9 @@
 #  Your basic info
 # ---------------------------------------------------------------------------------------
 base_info:
-  title: Theme Redefine # Site title
-  author: The Redefine Team # Author name
-  url: https://redefine.ohevan.com # Site url
+  title: 凌梦晓の小站 # Site title
+  author: 凌梦晓 # Author name
+  url: https://blog.lmxiao.top # Site url
   # Logo image (You can use local image, image external link or don’t fill)
   logo_img: # logo image on the left of the navigation bar
 
@@ -96,13 +96,10 @@ custom:
 # Social contact link
 # ---------------------------------------------------------------------------------------
 social_contact: # social contact icons in the first screen, you can add more by using fontawesome icon names
-  enable: false 
+  enable: true 
   links:
-    github:  # your GitHub URL
-    instagram: # your Instagram URL
-    zhihu:  # your ZhiHu URL
-    twitter:  # your twitter URL
-    email:  # your email
+    github: https://github.com/Mcxunyun666 # your GitHub URL
+    email: lyimoexiao@oxyxc.top # your email
     # ...... # you can add more
 
 # ---------------------------------------------------------------------------------------
