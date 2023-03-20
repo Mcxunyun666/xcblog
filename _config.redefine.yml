@@ -2,7 +2,7 @@
 #  Your basic info
 # ---------------------------------------------------------------------------------------
 base_info:
-  title: 凌梦晓の小站 # Site title
+  title: LMXiao # Site title
   author: 凌梦晓 # Author name
   url: https://blog.lmxiao.top # Site url
   # Logo image (You can use local image, image external link or don’t fill)
@@ -57,7 +57,7 @@ style:
       title: 2.8rem # first screen title font size
       subtitle: 1.5rem # first screen subtitle font size
     line_height: 1.2 # first screen title line height
-    title: Theme Redefine # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
+    title: 凌梦晓の小站！ # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
     subtitle: 
       enable: false
       list: []
@@ -99,6 +99,7 @@ social_contact: # social contact icons in the first screen, you can add more by 
   enable: true 
   links:
     github: https://github.com/Mcxunyun666 # your GitHub URL
+    bilibili: https://space.bilibili.com/29202562
     email: lyimoexiao@oxyxc.top # your email
     # ...... # you can add more
 
@@ -122,8 +123,9 @@ menu: #you can customize, i18n files are in the theme's languages folder. fa-reg
   #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
   #     Blog: https://ohevan.com
   #     Friends: /friends
-  # Links: 
-  #   icon: fa-regular fa-link
+  Links: 
+    path: /links
+    icon: fa-regular fa-link
   #   submenus:
   #     Link1: /link1
   #     Link2: /link2
@@ -250,7 +252,7 @@ comment:
 # Friend Links page
 # ---------------------------------------------------------------------------------------
 friend_links:
-  columns: 2 # number of columns. 2 or 3
+  columns: 3 # number of columns. 2 or 3
 
 # ---------------------------------------------------------------------------------------
 # Tags Page
@@ -318,7 +320,7 @@ fontawesome: # select fontawesome versions you want to use, in order to reduce t
 footer:
   runtime: true # show website running time or not
   icon: '<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>' # footer icon, write fontawesome html code here
-  start_time: 2022/8/17 11:45:14 # the starting time of your website, format: yyyy/mm/dd hh:mm:ss
+  start_time: 2023/3/20 17:41:22 # the starting time of your website, format: yyyy/mm/dd hh:mm:ss
   customize:  # customize footer message, can be html code
   icp: # ICP record number of your website, Can be null
     enable: false
@@ -356,9 +358,3 @@ plugins:
     enable: false # enable mermaid or not
     version: "9.3.0" # default v9.3.0
 
-# ---------------------------------------------------------------------------------------
-# Redefine Theme version (DELETE THIS PART IN YOUR _config.redefine.yml)
-# Please go to github to update the latest version frequently
-# Github: https://github.com/EvanNotFound/hexo-theme-redefine
-# ---------------------------------------------------------------------------------------
-version: 1.2.3 #DELETE THIS LINE IN YOUR _config.redefine.yml
