@@ -1,11 +1,39 @@
-- name: EvanNotFound
-  link: https://www.evanluo.top
-  description: 香港记者月底加急
-  avatar: https://evan.beee.top/avatar.png
+- name: 一氧晓云の下载站
+  link: https://d.oxyxc.top
+  description: 我的各种奇奇怪怪的下载站！
+  avatar: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
 
-- name: lalallalala
-  link: https://example.com
-  description: lol
-  avatar: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+- name: 潇洒自然
+  link: https://www.xrgzs.top
+  description: 
+  avatar: /pubilc/xrgzs.png
 
-- ......  
+- name: 潇然下载站 Xiaoran Sharelist
+  link: https://dl.xrgzs.top
+  description: 潇然工作室的下载站！
+  avatar: /pubilc/xrgzs.png
+
+- name: walterlv
+  link: https://blog.walterlv.com
+  description: 吕毅哥哥！
+  avatar: https://blog.walterlv.com/assets/img/favicons/apple-touch-icon.png
+
+- name: 林德熙
+  link: https://blog.lindexi.com
+  description: 我是林德熙，精通编写逗比代码
+  avatar: https://blog.lindexi.com/img/avatar.png
+
+- name: 李少珺
+  link: https://blog.sdlsj.net
+  description: 用及其简洁的WP主题搭博客的屑开发！
+  avatar: 
+
+- name: Iron
+  link: hhttps://blog.csdn.net/Iron_Ye
+  description: WPF 大佬，专业做动画和 3D 是 dotnet 职业技术学院的校长
+  avatar: /pubilc/iron.jpg
+
+- name: 谭汐霏
+  link: https://tanxifei.github.io/txf/
+  description: 一位朋友！
+  avatar: 
