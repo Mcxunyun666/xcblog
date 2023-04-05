@@ -323,9 +323,9 @@ footer:
   start_time: 2023/3/20 17:41:22 # the starting time of your website, format: yyyy/mm/dd hh:mm:ss
   customize:  # customize footer message, can be html code
   icp: # ICP record number of your website, Can be null
-    enable: false
-    number: # ICP record number
-    url: # ICP record url
+    enable: true
+    number: 琼ICP备2023002098号-1
+    url: https://beian.miit.gov.cn
 
 # ---------------------------------------------------------------------------------------
 # Custom html code
