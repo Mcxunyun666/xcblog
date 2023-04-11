@@ -21,11 +21,11 @@ info:
 # IMAGE CONFIGURATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 defaults:
   # Favicon
-  favicon: /pubilc/me.jpg
+  favicon: /pubilc/images/me.jpg
   # Site logo
   logo: 
   # Site avatar
-  avatar: /pubilc/me.jpg
+  avatar: /pubilc/images/me.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
