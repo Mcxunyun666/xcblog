@@ -12,7 +12,7 @@ specifiers:
   hexo-renderer-stylus: ^2.1.0
   hexo-server: ^3.0.0
   hexo-theme-landscape: ^0.0.3
-  hexo-theme-redefine: ^1.2.3
+  hexo-theme-redefine: ^2.1.1
 
 dependencies:
   hexo: 6.3.0
@@ -26,7 +26,7 @@ dependencies:
   hexo-renderer-stylus: 2.1.0
   hexo-server: 3.0.0
   hexo-theme-landscape: 0.0.3
-  hexo-theme-redefine: 1.2.3
+  hexo-theme-redefine: 2.1.1
 
 packages:
 
@@ -730,8 +730,8 @@ packages:
     resolution: {integrity: sha512-b0Di+TUVs4ESrNX4ULEh9uQmADpO6kr10rIJ2OGZM8suNQNFKdxn+vJUjnLfKkCPJAfVmS7/S83KCNYe4tpoNw==}
     dev: false
 
-  /hexo-theme-redefine/1.2.3:
-    resolution: {integrity: sha512-9C71jAVj5Pk3sX2PVMlAgpzfPaFV4oqoPRuLgEe/5JzT717T4AoLI4v14L8AylKz62cgTmVhHgmrpz0qnbBKaQ==}
+  /hexo-theme-redefine/2.1.1:
+    resolution: {integrity: sha512-y8n47rzcJF9VR3xQbTMHg2s97OwiD4B2luuAQo0y2SafrzgFyVLWsQObjpW4k3NtsxafOzyyaHLeKsH/xXbXqw==}
     dev: false
 
   /hexo-util/2.7.0:

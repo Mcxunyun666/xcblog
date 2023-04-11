@@ -6,12 +6,12 @@
 - name: 潇洒自然
   link: https://www.xrgzs.top
   description: 
-  avatar: /pubilc/xrgzs.png
+  avatar: /pubilc/images/xrgzs.png
 
 - name: 潇然下载站 Xiaoran Sharelist
   link: https://dl.xrgzs.top
   description: 潇然工作室的下载站！
-  avatar: /pubilc/xrgzs.png
+  avatar: /pubilc/images/xrgzs.png
 
 - name: walterlv
   link: https://blog.walterlv.com
@@ -29,9 +29,9 @@
   avatar: 
 
 - name: Iron
-  link: hhttps://blog.csdn.net/Iron_Ye
+  link: https://blog.csdn.net/Iron_Ye
   description: WPF 大佬，专业做动画和 3D 是 dotnet 职业技术学院的校长
-  avatar: /pubilc/iron.jpg
+  avatar: /pubilc/images/iron.jpg
 
 - name: 谭汐霏
   link: https://tanxifei.github.io/txf/
@@ -41,7 +41,7 @@
 - name: Xane的小破站
   link: http://xane.江江.love
   description: 酷友的小破站
-  avatar: /pubilc/6eaf1a799343fc5ed31636f18cb6f24a.jpeg
+  avatar: /pubilc/images/6eaf1a799343fc5ed31636f18cb6f24a.jpeg
 
 - name: PanDaTech's Blog
   link: https://www.pandadatech.cn/
@@ -56,4 +56,4 @@
 - name: Puresys
   link: https://www.puresys.net
   description: 纯净系统，软件下载。
-  avatar: /pubilc/puresys.net.png
+  avatar: /pubilc/images/puresys.net.png
