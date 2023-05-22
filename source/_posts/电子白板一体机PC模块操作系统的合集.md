@@ -7,7 +7,7 @@ tags: seewo
 
 原文地址：[@潇然工作室：希沃鸿合文香一体机OPS电脑原厂预装教育系统镜像ESD打包封装驱动程序下载恢复盘构建](https://xrgzs.github.io/eduimg.html)  
 
-感谢❤：[潇然工作室](https://www.xrgzs.top)、[栖鸟闲榆](https://pan.costg.cf/)、[恩腾技术圈](https://www.rvibo.com/)等为此项目提供了大量的支持😘💖💕
+感谢❤：[潇然工作室](https://xrgzs.github.io)、[栖鸟闲榆](https://pan.costg.cf/)、[恩腾技术圈](https://www.rvibo.com/)等为此项目提供了大量的支持😘💖💕
 
 下载地址
 
