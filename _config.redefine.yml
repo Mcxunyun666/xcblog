@@ -318,11 +318,11 @@ footer:
 # INJECT >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 inject:
   # Whether to enable inject
-  enable: false
+  enable: true
   # Inject custom head html code
   head: 
-    -
-    -
+    -<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    -<script>LA.init({id:"K4fn41iy3bPkMcAB",ck:"K4fn41iy3bPkMcAB",autoTrack:true,hashMode:true})</script>
   # Inject custom footer html code
   footer:
     -
